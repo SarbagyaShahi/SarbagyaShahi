@@ -1,4 +1,4 @@
-![logo]([https://camo.githubusercontent.com/405ec87f325f46fb3b98dff86e47a3122360532127d9ea40aa9d78ce107b9d6a/68747470733a2f2f692e696d6775722e636f6d2f4c65756836776d2e676966])
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPBAqH8mXjCr02s7w98zIZUMWGariPyfyXEg&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Sarbagya Shahi</h1>
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
