@@ -1,4 +1,4 @@
-[![MasterHead](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
+![MasterHead](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
 <h1 align="center">Hi 👋, I'm Sarbagya Shahi</h1>
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
