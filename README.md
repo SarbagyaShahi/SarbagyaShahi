@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Plasteshare](https://github.com/SarbagyaShahi/plateshare)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **sarbagyashahi894@gmail.com**
 
