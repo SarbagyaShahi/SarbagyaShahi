@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **sarbagyashahi894@gmail.com**
 
-- ⚡ Fun fact **I think I m Learning😅**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
